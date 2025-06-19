@@ -25,10 +25,7 @@ A simple GUI-based Face Authentication System built with Python. It uses your we
 
 face-authentication-app/
 │
-├── known\_faces/             # Store known images here (e.g., person1.jpg , person2.jpg)
-    |
-    |--- person1.jpg
-    |--- person2.jpg
+├── known\_faces/            # Store known images here (e.g., person1.jpg)
 ├── face\_auth\_gui.py        # Main Python GUI script
 ├── logs.txt                # Automatically generated logs of attempts
 ├── README.md               # Project description
@@ -100,7 +97,7 @@ pip install face_recognition opencv-python Pillow
 
 ## 🧑‍💻 Author
 
-akash kumar shukla**
+**Akash Kumar Shukla**
 💼 Python Developer | Cybersecurity Enthusiast
 
 ---
